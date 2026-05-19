@@ -3,7 +3,7 @@
 
 ---
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]Dashboard_Screenshot.png
 
 > **Analysing 99,000+ orders across Brazil to identify revenue patterns, geographic concentration, and product performance using Power BI.**
 
