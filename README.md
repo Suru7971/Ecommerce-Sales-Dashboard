@@ -163,7 +163,7 @@ At R$ 159.33, there is room to increase AOV through bundle recommendations and f
 
 | Full Dashboard | KPI Cards |
 |---------------|-----------|
-| ![Dashboard](screenshots/dashboard.png) | ![KPIs](screenshots/kpi-cards.png) |
+Dashboard_Screenshot.png
 
 ---
 
