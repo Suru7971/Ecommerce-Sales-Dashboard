@@ -22,7 +22,7 @@ The goal was to build a production-style sales analytics dashboard that answers 
 
 ## 📈 Dashboard Screenshot
 
-![Dashboard]Dashboard_Screenshot.png
+![Dashboard](Dashboard_Screenshot.png)
 
 ---
 
