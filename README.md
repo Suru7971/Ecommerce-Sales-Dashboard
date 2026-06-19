@@ -167,7 +167,7 @@ At R$ 159.33, there is room to increase AOV through bundle recommendations and f
 
 ## 📬 Contact
 
-- LinkedIn: [your-linkedin-url]
+- LinkedIn: https://www.linkedin.com/in/suresh-pawar-a2b7bb26b
 - Github: https://github.com/Suru7971
 - Email: surupawar7971@gmail.com
 
