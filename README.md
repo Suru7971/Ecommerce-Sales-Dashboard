@@ -41,6 +41,14 @@ The dashboard revealed that São Paulo and Rio de Janeiro generated over half of
 
 These insights can help businesses improve regional expansion strategies, optimize promotional timing, and increase average order value through targeted initiatives.
 
+## 📊 Project Highlights
+
+- 📦 99,441 Orders Analyzed
+- 💰 R$15.84M Revenue Analyzed
+- 👥 99K+ Customers Evaluated
+- 🌎 27 Brazilian States Covered
+- 📈 Interactive Power BI Dashboard
+- 🛠 SQL + DAX + Power BI Solution
 ## 📈 Dashboard Screenshot
 
 ![Dashboard](Dashboard_Screenshot.png)
@@ -199,20 +207,29 @@ At R$ 159.33, there is room to increase AOV through bundle recommendations and f
 
 ---
 
-## 👤 About
+## 👤 About This Project
 
-**Role Target:** Data Analyst · Business Intelligence Analyst · Product Analyst
+This project demonstrates end-to-end Business Intelligence and Sales Analytics capabilities, including SQL-based data analysis, KPI development, Power BI dashboard creation, DAX calculations, and business recommendation generation.
 
-**Skills demonstrated in this project:**
-`Power BI` `DAX` `SQL` `Data Visualisation` `KPI Development` `Business Intelligence` `Geographic Analysis` `Dashboard Storytelling`
+**Core Technologies:**
+`Power BI` `SQL` `DAX` `MySQL` `Excel`
+
+**Analytics Areas:**
+`Sales Analytics` `Business Intelligence` `Revenue Analysis` `Customer Analytics` `Geographic Analysis`
+`Power BI` `DAX` `SQL` `Data Visualisation` `KPI Development` `Dashboard Storytelling`
 
 ---
 
-## 📬 Contact
+## 📬 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/suresh-pawar-a2b7bb26b
-- Github: https://github.com/Suru7971
-- Email: surupawar7971@gmail.com
+🔗 LinkedIn:
+www.linkedin.com/in/suresh-pawar-a2b7bb26b
+
+💻 GitHub:
+github.com/Suru7971
+
+📧 Email:
+surupawar7971@gmail.com
 
 ---
 
