@@ -49,6 +49,7 @@ These insights can help businesses improve regional expansion strategies, optimi
 - 🌎 27 Brazilian States Covered
 - 📈 Interactive Power BI Dashboard
 - 🛠 SQL + DAX + Power BI Solution
+- 
 ## 📈 Dashboard Screenshot
 
 ![Dashboard](Dashboard_Screenshot.png)
@@ -215,8 +216,9 @@ This project demonstrates end-to-end Business Intelligence and Sales Analytics c
 `Power BI` `SQL` `DAX` `MySQL` `Excel`
 
 **Analytics Areas:**
-`Sales Analytics` `Business Intelligence` `Revenue Analysis` `Customer Analytics` `Geographic Analysis`
-`Power BI` `DAX` `SQL` `Data Visualisation` `KPI Development` `Dashboard Storytelling`
+`Sales Analytics` `Business Intelligence` `Revenue Analysis` `Customer Analytics`
+`Geographic Analysis` `Data Visualization` `KPI Development`
+`Dashboard Storytelling` `Business Intelligence Reporting`
 
 ---
 
