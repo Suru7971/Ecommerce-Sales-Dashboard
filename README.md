@@ -216,6 +216,7 @@ This project demonstrates end-to-end Business Intelligence and Sales Analytics c
 `Power BI` `SQL` `DAX` `MySQL` `Excel`
 
 **Analytics Areas:**
+
 `Sales Analytics` `Business Intelligence` `Revenue Analysis` `Customer Analytics`
 `Geographic Analysis` `Data Visualization` `KPI Development`
 `Dashboard Storytelling` `Business Intelligence Reporting`
