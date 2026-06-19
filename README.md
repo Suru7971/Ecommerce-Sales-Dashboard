@@ -1,9 +1,9 @@
 # 📊 E-Commerce Sales Analysis Dashboard
-### Power BI · SQL · DAX · Olist Dataset · Jan–Dec 2018
+### Power BI · SQL · DAX · Olist Brazil Dataset · Business Intelligence
 
 ---
 
-> **Analysing 99,000+ orders across Brazil to identify revenue patterns, geographic concentration, and product performance using Power BI.**
+> **Analyzing 99,441+ orders across Brazil to uncover revenue trends, customer behavior, geographic opportunities, and business growth insights through Power BI.**
 
 ---
 
@@ -19,6 +19,27 @@ The goal was to build a production-style sales analytics dashboard that answers 
 - What is the average order value, and how does it vary?
 
 ---
+
+## 🚀 Why This Project Matters
+
+This project demonstrates my ability to:
+
+* Analyze large-scale sales datasets (99K+ orders)
+* Build business-focused Power BI dashboards
+* Write SQL queries for data extraction and aggregation
+* Develop DAX measures for KPI tracking
+* Identify revenue trends and geographic opportunities
+* Translate raw data into actionable business recommendations
+
+This project covers the complete analytics workflow from data preparation and modeling to visualization and decision-making.
+
+## 📌 Executive Summary
+
+Using 99,441 orders from the Olist Brazil E-Commerce dataset, this analysis identified significant geographic revenue concentration, seasonal sales fluctuations, and product-level performance trends.
+
+The dashboard revealed that São Paulo and Rio de Janeiro generated over half of total revenue, February experienced the lowest monthly sales performance, and a small group of products contributed a disproportionate share of revenue.
+
+These insights can help businesses improve regional expansion strategies, optimize promotional timing, and increase average order value through targeted initiatives.
 
 ## 📈 Dashboard Screenshot
 
@@ -103,15 +124,37 @@ DIVIDE(
 
 These findings were derived from the dashboard analysis — not visible from the raw data alone:
 
-1. **SP + RJ drive 51% of all revenue.** São Paulo (37.4%) and Rio de Janeiro (13.4%) together account for more than half of total revenue, indicating highly concentrated geographic demand.
+1. Revenue is Highly Concentrated
 
-2. **Revenue dipped to R$ 1.20M in February** — the lowest month of the year. This aligns with post-holiday seasonality in Brazilian retail and represents a potential window for targeted promotional campaigns.
+São Paulo and Rio de Janeiro generated 51% of total revenue, indicating strong market concentration and highlighting opportunities for expansion into underpenetrated regions.
 
-3. **The top single product (bb50f2e2...) generated R$ 68K**, which equals approximately 0.4% of total revenue from a single SKU. The top 10 products together account for a disproportionate share of revenue — classic Pareto distribution.
+2. February Shows Significant Revenue Decline
 
-4. **São Paulo orders (15.5K) are 2.3× higher than Rio de Janeiro (6.9K)**, despite both being major metropolitan areas. This suggests untapped growth potential in RJ and other large states like MG and RS.
+Revenue dropped to approximately R$1.20M in February, representing the lowest-performing month of the year and suggesting post-holiday seasonality effects.
+
+3. Revenue Follows a Pareto Distribution
+
+The highest-performing product generated approximately R$68K in revenue, while a relatively small group of products contributed a disproportionate share of total sales.
+
+4. São Paulo Dominates Order Volume
+
+São Paulo recorded 15.5K orders compared to Rio de Janeiro's 6.9K orders, indicating significant differences in customer demand across regions.
 
 ---
+## 🎯 Skills Demonstrated
+
+* Sales Analytics
+* Business Intelligence
+* KPI Development
+* Revenue Analysis
+* Customer Analytics
+* Geographic Analysis
+* SQL Data Analysis
+* DAX Calculations
+* Data Visualization
+* Dashboard Storytelling
+* Stakeholder Reporting
+* Business Recommendation Development
 
 ## 📈 Dataset Information
 
